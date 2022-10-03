@@ -1,0 +1,93 @@
+@media{min-width: 100px background-size: 1000px;}
+body{ background-color: aqua;
+   background-image: url(adenike.png);
+   background-blend-mode: hard-light;
+ font-style: italic;
+ font-size: 20px;
+ font-family:cursive;
+ color: blaCK;}
+ .shape{background-color: rgb(95, 22, 46);
+    opacity: 0.3;
+    width: 220px;
+    height: 220px; 
+    border: solid;
+ border-radius: 100%;
+ border-color:black;
+ border-width:8px;
+ border-right-width: 10px;
+ border-bottom-right-radius: 40px;
+ border-top-width: 2px;
+ border-bottom-width: 5px;
+
+ }
+ .shape2{ 
+    opacity: 0.3;
+    width: 220px;
+    height: 220px; 
+    border: solid;
+ border-radius: 100%;
+ border-color:black;
+ border-width:8px;
+ border-right-width: 10px;
+ border-top-left-radius: 40px;
+ border-top-width: 2px;
+ border-bottom-width: 5px;
+ 
+ margin-left: 220px;}
+
+ .shape:hover{border-color:green;}
+ .shape2:hover{border-color:green;}
+ .shape3:hover{border-color:green;}
+ .shape4:hover{border-color:green;}
+
+ h2{text-align: center;
+ font-size: 25px;
+ color:yellow;}
+
+ h3{text-align: center;
+    font-size: 25px; 
+    color:yellow;}
+
+ h4{text-align: center;
+    font-size: 26px; 
+    color:yellow;}
+    
+ h5{text-align: center;
+    font-size: 25px;
+    color:yellow;}
+
+ .shape3{background-color:rgb(95, 22, 46); 
+    opacity: 0.3;
+    width: 220px;
+    height: 220px; 
+    border: solid;
+ border-radius: 100%;
+ border-color: black;
+ border-width:8px;
+ border-right-width: 10px;
+ border-top-right-radius: 40px;
+ border-top-width: 2px;
+ border-bottom-width: 5px;
+ margin-top:-230px;
+ }
+
+
+ .shape4{
+   color: blue;
+    opacity: 0.3;
+    width: 220px;
+    height: 220px; 
+    border: solid;
+ border-radius: 100%;
+ border-color: black;;
+ border-width:8px;
+ border-right-width: 10px;
+ border-bottom-left-radius: 40px;
+ border-top-width: 2px;
+  border-bottom-width: 5px;
+ margin-top: -450px;
+ margin-left: 220px;
+ }
+ .box-move{margin-left: 300px;
+ margin-top: 100px;}
+ 

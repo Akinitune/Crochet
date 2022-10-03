@@ -1,0 +1,22 @@
+body{background-color: rgb(207, 200, 101);}
+h1{color: white;
+text-align: center;}
+h2{text-align: center;}
+h3{color: white;
+    text-align: center;
+}
+.dif{color: white;}
+form{color: white;
+display: flex;
+flex-direction: column;
+padding-left: 300px;
+width: 400px; }
+input{margin: 20px;
+padding: 10px;
+background:none;
+border-top: none;
+border-left: none;
+border-right: none;
+border-bottom: solid;
+border-width: 2px;
+border-bottom-color: black;}
